@@ -1,10 +1,14 @@
 ﻿<Properties StartupConfiguration="{9D3D617F-2041-4E8B-9641-DD5291E7ACC3}|Default">
   <MonoDevelop.Ide.ItemProperties.GummiBearKingdom PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GummiBearWorld/Controllers/ProductController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GummiBearWorld/Views/New Folder/Index.cshtml">
     <Files>
       <File FileName="GummiBearWorld/Controllers/HomeController.cs" Line="19" Column="2" />
       <File FileName="GummiBearWorld/Controllers/ProductController.cs" Line="11" Column="25" />
-      <File FileName="GummiBearWorld/Models/GummiBearWorldContext.cs" Line="1" Column="1" />
+      <File FileName="GummiBearWorld/Models/GummiBearWorldContext.cs" Line="3" Column="27" />
+      <File FileName="GummiBearWorld/Models/Category.cs" Line="20" Column="2" />
+      <File FileName="GummiBearWorld/Models/Product.cs" Line="13" Column="37" />
+      <File FileName="GummiBearWorld/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="GummiBearWorld/Views/New Folder/Index.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
