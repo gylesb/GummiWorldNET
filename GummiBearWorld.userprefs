@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9D3D617F-2041-4E8B-9641-DD5291E7ACC3}|Default">
+  <MonoDevelop.Ide.ItemProperties.GummiBearKingdom PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GummiBearWorld/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="GummiBearWorld/Controllers/HomeController.cs" Line="19" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
