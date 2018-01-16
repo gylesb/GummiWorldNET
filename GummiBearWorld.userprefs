@@ -1,10 +1,19 @@
 ﻿<Properties StartupConfiguration="{9D3D617F-2041-4E8B-9641-DD5291E7ACC3}|Default">
   <MonoDevelop.Ide.ItemProperties.GummiBearKingdom PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GummiBearWorld/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GummiBearWorld/Views/Gummi/Review.cshtml">
     <Files>
       <File FileName="GummiBearWorld/Models/Product.cs" Line="13" Column="37" />
-      <File FileName="GummiBearWorld/Views/New Folder/Details.cshtml" Line="11" Column="84" />
+      <File FileName="GummiBearWorld/Views/Gummi/Details.cshtml" Line="11" Column="84" />
       <File FileName="GummiBearWorld/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="GummiBearWorld.Tests/ControllerTests/ProductControllerTest.cs" Line="1" Column="1" />
+      <File FileName="GummiBearWorld.Tests/ControllerTests/CategoryTest.cs" Line="1" Column="1" />
+      <File FileName="GummiBearWorld.Tests/ModelTests/ProductTest.cs" Line="1" Column="1" />
+      <File FileName="GummiBearWorld.Tests/ModelTests/CategoryTest.cs" Line="1" Column="1" />
+      <File FileName="GummiBearWorld/Models/Review.cs" Line="1" Column="1" />
+      <File FileName="GummiBearWorld/Controllers/ReviewController.cs" Line="1" Column="1" />
+      <File FileName="GummiBearWorld.Tests/ControllerTests/ReviewControllerTest.cs" Line="1" Column="1" />
+      <File FileName="GummiBearWorld.Tests/ModelTests/ReviewTest.cs" Line="1" Column="1" />
+      <File FileName="GummiBearWorld/Views/Gummi/Review.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

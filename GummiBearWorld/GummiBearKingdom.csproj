@@ -22,8 +22,6 @@
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Views\Home\" />
-    <Folder Include="Views\Product\" />
-    <Folder Include="Views\Prodcuts\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Models\Category.config" />

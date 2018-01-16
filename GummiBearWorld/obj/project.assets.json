@@ -21434,10 +21434,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/GummiBearWorld/GummiBearWorld/GummiBearKingdom.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/GummiWorldNET/GummiBearWorld/GummiBearKingdom.csproj",
       "projectName": "GummiBearKingdom",
-      "projectPath": "/Users/Guest/Desktop/GummiBearWorld/GummiBearWorld/GummiBearKingdom.csproj",
-      "outputPath": "/Users/Guest/Desktop/GummiBearWorld/GummiBearWorld/obj",
+      "projectPath": "/Users/Guest/Desktop/GummiWorldNET/GummiBearWorld/GummiBearKingdom.csproj",
+      "outputPath": "/Users/Guest/Desktop/GummiWorldNET/GummiBearWorld/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
